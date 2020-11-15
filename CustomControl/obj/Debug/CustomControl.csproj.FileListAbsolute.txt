@@ -1,0 +1,10 @@
+G:\C#\CustomControl\CustomControl\bin\Debug\CustomControl.exe.config
+G:\C#\CustomControl\CustomControl\bin\Debug\CustomControl.exe
+G:\C#\CustomControl\CustomControl\bin\Debug\CustomControl.pdb
+G:\C#\CustomControl\CustomControl\obj\Debug\CustomControl.Form1.resources
+G:\C#\CustomControl\CustomControl\obj\Debug\CustomControl.Properties.Resources.resources
+G:\C#\CustomControl\CustomControl\obj\Debug\CustomControl.csproj.GenerateResource.cache
+G:\C#\CustomControl\CustomControl\obj\Debug\CustomControl.csproj.CoreCompileInputs.cache
+G:\C#\CustomControl\CustomControl\obj\Debug\CustomControl.exe
+G:\C#\CustomControl\CustomControl\obj\Debug\CustomControl.pdb
+G:\C#\CustomControl\CustomControl\obj\Debug\CustomControl.CardControl.resources
